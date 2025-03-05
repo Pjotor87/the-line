@@ -1,13 +1,1209 @@
+2008-01-01  # New Year's Day
+2008-01-06  # Epiphany
+2008-05-01  # Labor Day
+2008-06-06  # National Day of Sweden
+2008-12-24  # Christmas Eve
+2008-12-25  # Christmas Day
+2008-12-26  # Boxing Day
+2008-12-31  # New Year's Eve
+2008-03-21  # Good Friday
+2008-03-23  # Easter Sunday
+2008-05-01  # Ascension Day
+2008-06-21  # Midsummer Day
+2008-11-01  # All Saints' Day
+2009-01-01  # New Year's Day
+2009-01-06  # Epiphany
+2009-05-01  # Labor Day
+2009-06-06  # National Day of Sweden
+2009-12-24  # Christmas Eve
+2009-12-25  # Christmas Day
+2009-12-26  # Boxing Day
+2009-12-31  # New Year's Eve
+2009-04-10  # Good Friday
+2009-04-12  # Easter Sunday
+2009-05-21  # Ascension Day
+2009-06-20  # Midsummer Day
+2009-11-07  # All Saints' Day
+2010-01-01  # New Year's Day
+2010-01-06  # Epiphany
+2010-05-01  # Labor Day
+2010-06-06  # National Day of Sweden
+2010-12-24  # Christmas Eve
+2010-12-25  # Christmas Day
+2010-12-26  # Boxing Day
+2010-12-31  # New Year's Eve
+2010-04-02  # Good Friday
+2010-04-04  # Easter Sunday
+2010-05-13  # Ascension Day
+2010-06-26  # Midsummer Day
+2010-11-06  # All Saints' Day
+2011-01-01  # New Year's Day
+2011-01-06  # Epiphany
+2011-05-01  # Labor Day
+2011-06-06  # National Day of Sweden
+2011-12-24  # Christmas Eve
+2011-12-25  # Christmas Day
+2011-12-26  # Boxing Day
+2011-12-31  # New Year's Eve
+2011-04-22  # Good Friday
+2011-04-24  # Easter Sunday
+2011-06-02  # Ascension Day
+2011-06-25  # Midsummer Day
+2011-11-05  # All Saints' Day
+2012-01-01  # New Year's Day
+2012-01-06  # Epiphany
+2012-05-01  # Labor Day
+2012-06-06  # National Day of Sweden
+2012-12-24  # Christmas Eve
+2012-12-25  # Christmas Day
+2012-12-26  # Boxing Day
+2012-12-31  # New Year's Eve
+2012-04-06  # Good Friday
+2012-04-08  # Easter Sunday
+2012-05-17  # Ascension Day
+2012-06-23  # Midsummer Day
+2012-11-03  # All Saints' Day
+2013-01-01  # New Year's Day
+2013-01-06  # Epiphany
+2013-05-01  # Labor Day
+2013-06-06  # National Day of Sweden
+2013-12-24  # Christmas Eve
+2013-12-25  # Christmas Day
+2013-12-26  # Boxing Day
+2013-12-31  # New Year's Eve
+2013-03-29  # Good Friday
+2013-03-31  # Easter Sunday
+2013-05-09  # Ascension Day
+2013-06-22  # Midsummer Day
+2013-11-02  # All Saints' Day
+2014-01-01  # New Year's Day
+2014-01-06  # Epiphany
+2014-05-01  # Labor Day
+2014-06-06  # National Day of Sweden
+2014-12-24  # Christmas Eve
+2014-12-25  # Christmas Day
+2014-12-26  # Boxing Day
+2014-12-31  # New Year's Eve
+2014-04-18  # Good Friday
+2014-04-20  # Easter Sunday
+2014-05-29  # Ascension Day
+2014-06-21  # Midsummer Day
+2014-11-01  # All Saints' Day
+2015-01-01  # New Year's Day
+2015-01-06  # Epiphany
+2015-05-01  # Labor Day
+2015-06-06  # National Day of Sweden
+2015-12-24  # Christmas Eve
+2015-12-25  # Christmas Day
+2015-12-26  # Boxing Day
+2015-12-31  # New Year's Eve
+2015-04-03  # Good Friday
+2015-04-05  # Easter Sunday
+2015-05-14  # Ascension Day
+2015-06-20  # Midsummer Day
+2015-11-07  # All Saints' Day
+2016-01-01  # New Year's Day
+2016-01-06  # Epiphany
+2016-05-01  # Labor Day
+2016-06-06  # National Day of Sweden
+2016-12-24  # Christmas Eve
+2016-12-25  # Christmas Day
+2016-12-26  # Boxing Day
+2016-12-31  # New Year's Eve
+2016-03-25  # Good Friday
+2016-03-27  # Easter Sunday
+2016-05-05  # Ascension Day
+2016-06-25  # Midsummer Day
+2016-11-05  # All Saints' Day
+2017-01-01  # New Year's Day
+2017-01-06  # Epiphany
+2017-05-01  # Labor Day
+2017-06-06  # National Day of Sweden
+2017-12-24  # Christmas Eve
+2017-12-25  # Christmas Day
+2017-12-26  # Boxing Day
+2017-12-31  # New Year's Eve
+2017-04-14  # Good Friday
+2017-04-16  # Easter Sunday
+2017-05-25  # Ascension Day
+2017-06-24  # Midsummer Day
+2017-11-04  # All Saints' Day
+2018-01-01  # New Year's Day
+2018-01-06  # Epiphany
+2018-05-01  # Labor Day
+2018-06-06  # National Day of Sweden
+2018-12-24  # Christmas Eve
+2018-12-25  # Christmas Day
+2018-12-26  # Boxing Day
+2018-12-31  # New Year's Eve
+2018-03-30  # Good Friday
+2018-04-01  # Easter Sunday
+2018-05-10  # Ascension Day
+2018-06-23  # Midsummer Day
+2018-11-03  # All Saints' Day
+2019-01-01  # New Year's Day
+2019-01-06  # Epiphany
+2019-05-01  # Labor Day
+2019-06-06  # National Day of Sweden
+2019-12-24  # Christmas Eve
+2019-12-25  # Christmas Day
+2019-12-26  # Boxing Day
+2019-12-31  # New Year's Eve
+2019-04-19  # Good Friday
+2019-04-21  # Easter Sunday
+2019-05-30  # Ascension Day
+2019-06-22  # Midsummer Day
+2019-11-02  # All Saints' Day
+2020-01-01  # New Year's Day
+2020-01-06  # Epiphany
+2020-05-01  # Labor Day
+2020-06-06  # National Day of Sweden
+2020-12-24  # Christmas Eve
+2020-12-25  # Christmas Day
+2020-12-26  # Boxing Day
+2020-12-31  # New Year's Eve
+2020-04-10  # Good Friday
+2020-04-12  # Easter Sunday
+2020-05-21  # Ascension Day
+2020-06-20  # Midsummer Day
+2020-11-07  # All Saints' Day
+2021-01-01  # New Year's Day
+2021-01-06  # Epiphany
+2021-05-01  # Labor Day
+2021-06-06  # National Day of Sweden
+2021-12-24  # Christmas Eve
+2021-12-25  # Christmas Day
+2021-12-26  # Boxing Day
+2021-12-31  # New Year's Eve
+2021-04-02  # Good Friday
+2021-04-04  # Easter Sunday
+2021-05-13  # Ascension Day
+2021-06-26  # Midsummer Day
+2021-11-06  # All Saints' Day
+2022-01-01  # New Year's Day
+2022-01-06  # Epiphany
+2022-05-01  # Labor Day
+2022-06-06  # National Day of Sweden
+2022-12-24  # Christmas Eve
+2022-12-25  # Christmas Day
+2022-12-26  # Boxing Day
+2022-12-31  # New Year's Eve
+2022-04-15  # Good Friday
+2022-04-17  # Easter Sunday
+2022-05-26  # Ascension Day
+2022-06-25  # Midsummer Day
+2022-11-05  # All Saints' Day
+2023-01-01  # New Year's Day
+2023-01-06  # Epiphany
+2023-05-01  # Labor Day
+2023-06-06  # National Day of Sweden
+2023-12-24  # Christmas Eve
+2023-12-25  # Christmas Day
+2023-12-26  # Boxing Day
+2023-12-31  # New Year's Eve
+2023-04-07  # Good Friday
+2023-04-09  # Easter Sunday
+2023-05-18  # Ascension Day
+2023-06-24  # Midsummer Day
+2023-11-04  # All Saints' Day
+2024-01-01  # New Year's Day
+2024-01-06  # Epiphany
+2024-05-01  # Labor Day
+2024-06-06  # National Day of Sweden
+2024-12-24  # Christmas Eve
+2024-12-25  # Christmas Day
+2024-12-26  # Boxing Day
+2024-12-31  # New Year's Eve
+2024-03-29  # Good Friday
+2024-03-31  # Easter Sunday
+2024-05-09  # Ascension Day
+2024-06-22  # Midsummer Day
+2024-11-02  # All Saints' Day
 2025-01-01  # New Year's Day
 2025-01-06  # Epiphany
-2025-04-18  # Good Friday
-2025-04-20  # Easter Sunday
 2025-05-01  # Labor Day
-2025-05-29  # Ascension Day
 2025-06-06  # National Day of Sweden
-2025-06-21  # Midsummer Day
-2025-11-01  # All Saints' Day
 2025-12-24  # Christmas Eve
 2025-12-25  # Christmas Day
 2025-12-26  # Boxing Day
 2025-12-31  # New Year's Eve
+2025-04-18  # Good Friday
+2025-04-20  # Easter Sunday
+2025-05-29  # Ascension Day
+2025-06-21  # Midsummer Day
+2025-11-01  # All Saints' Day
+2026-01-01  # New Year's Day
+2026-01-06  # Epiphany
+2026-05-01  # Labor Day
+2026-06-06  # National Day of Sweden
+2026-12-24  # Christmas Eve
+2026-12-25  # Christmas Day
+2026-12-26  # Boxing Day
+2026-12-31  # New Year's Eve
+2026-04-03  # Good Friday
+2026-04-05  # Easter Sunday
+2026-05-14  # Ascension Day
+2026-06-20  # Midsummer Day
+2026-11-07  # All Saints' Day
+2027-01-01  # New Year's Day
+2027-01-06  # Epiphany
+2027-05-01  # Labor Day
+2027-06-06  # National Day of Sweden
+2027-12-24  # Christmas Eve
+2027-12-25  # Christmas Day
+2027-12-26  # Boxing Day
+2027-12-31  # New Year's Eve
+2027-03-26  # Good Friday
+2027-03-28  # Easter Sunday
+2027-05-06  # Ascension Day
+2027-06-26  # Midsummer Day
+2027-11-06  # All Saints' Day
+2028-01-01  # New Year's Day
+2028-01-06  # Epiphany
+2028-05-01  # Labor Day
+2028-06-06  # National Day of Sweden
+2028-12-24  # Christmas Eve
+2028-12-25  # Christmas Day
+2028-12-26  # Boxing Day
+2028-12-31  # New Year's Eve
+2028-04-14  # Good Friday
+2028-04-16  # Easter Sunday
+2028-05-25  # Ascension Day
+2028-06-24  # Midsummer Day
+2028-11-04  # All Saints' Day
+2029-01-01  # New Year's Day
+2029-01-06  # Epiphany
+2029-05-01  # Labor Day
+2029-06-06  # National Day of Sweden
+2029-12-24  # Christmas Eve
+2029-12-25  # Christmas Day
+2029-12-26  # Boxing Day
+2029-12-31  # New Year's Eve
+2029-03-30  # Good Friday
+2029-04-01  # Easter Sunday
+2029-05-10  # Ascension Day
+2029-06-23  # Midsummer Day
+2029-11-03  # All Saints' Day
+2030-01-01  # New Year's Day
+2030-01-06  # Epiphany
+2030-05-01  # Labor Day
+2030-06-06  # National Day of Sweden
+2030-12-24  # Christmas Eve
+2030-12-25  # Christmas Day
+2030-12-26  # Boxing Day
+2030-12-31  # New Year's Eve
+2030-04-19  # Good Friday
+2030-04-21  # Easter Sunday
+2030-05-30  # Ascension Day
+2030-06-22  # Midsummer Day
+2030-11-02  # All Saints' Day
+2031-01-01  # New Year's Day
+2031-01-06  # Epiphany
+2031-05-01  # Labor Day
+2031-06-06  # National Day of Sweden
+2031-12-24  # Christmas Eve
+2031-12-25  # Christmas Day
+2031-12-26  # Boxing Day
+2031-12-31  # New Year's Eve
+2031-04-11  # Good Friday
+2031-04-13  # Easter Sunday
+2031-05-22  # Ascension Day
+2031-06-21  # Midsummer Day
+2031-11-01  # All Saints' Day
+2032-01-01  # New Year's Day
+2032-01-06  # Epiphany
+2032-05-01  # Labor Day
+2032-06-06  # National Day of Sweden
+2032-12-24  # Christmas Eve
+2032-12-25  # Christmas Day
+2032-12-26  # Boxing Day
+2032-12-31  # New Year's Eve
+2032-03-26  # Good Friday
+2032-03-28  # Easter Sunday
+2032-05-06  # Ascension Day
+2032-06-26  # Midsummer Day
+2032-11-06  # All Saints' Day
+2033-01-01  # New Year's Day
+2033-01-06  # Epiphany
+2033-05-01  # Labor Day
+2033-06-06  # National Day of Sweden
+2033-12-24  # Christmas Eve
+2033-12-25  # Christmas Day
+2033-12-26  # Boxing Day
+2033-12-31  # New Year's Eve
+2033-04-15  # Good Friday
+2033-04-17  # Easter Sunday
+2033-05-26  # Ascension Day
+2033-06-25  # Midsummer Day
+2033-11-05  # All Saints' Day
+2034-01-01  # New Year's Day
+2034-01-06  # Epiphany
+2034-05-01  # Labor Day
+2034-06-06  # National Day of Sweden
+2034-12-24  # Christmas Eve
+2034-12-25  # Christmas Day
+2034-12-26  # Boxing Day
+2034-12-31  # New Year's Eve
+2034-04-07  # Good Friday
+2034-04-09  # Easter Sunday
+2034-05-18  # Ascension Day
+2034-06-24  # Midsummer Day
+2034-11-04  # All Saints' Day
+2035-01-01  # New Year's Day
+2035-01-06  # Epiphany
+2035-05-01  # Labor Day
+2035-06-06  # National Day of Sweden
+2035-12-24  # Christmas Eve
+2035-12-25  # Christmas Day
+2035-12-26  # Boxing Day
+2035-12-31  # New Year's Eve
+2035-03-23  # Good Friday
+2035-03-25  # Easter Sunday
+2035-05-03  # Ascension Day
+2035-06-23  # Midsummer Day
+2035-11-03  # All Saints' Day
+2036-01-01  # New Year's Day
+2036-01-06  # Epiphany
+2036-05-01  # Labor Day
+2036-06-06  # National Day of Sweden
+2036-12-24  # Christmas Eve
+2036-12-25  # Christmas Day
+2036-12-26  # Boxing Day
+2036-12-31  # New Year's Eve
+2036-04-11  # Good Friday
+2036-04-13  # Easter Sunday
+2036-05-22  # Ascension Day
+2036-06-21  # Midsummer Day
+2036-11-01  # All Saints' Day
+2037-01-01  # New Year's Day
+2037-01-06  # Epiphany
+2037-05-01  # Labor Day
+2037-06-06  # National Day of Sweden
+2037-12-24  # Christmas Eve
+2037-12-25  # Christmas Day
+2037-12-26  # Boxing Day
+2037-12-31  # New Year's Eve
+2037-04-03  # Good Friday
+2037-04-05  # Easter Sunday
+2037-05-14  # Ascension Day
+2037-06-20  # Midsummer Day
+2037-11-07  # All Saints' Day
+2038-01-01  # New Year's Day
+2038-01-06  # Epiphany
+2038-05-01  # Labor Day
+2038-06-06  # National Day of Sweden
+2038-12-24  # Christmas Eve
+2038-12-25  # Christmas Day
+2038-12-26  # Boxing Day
+2038-12-31  # New Year's Eve
+2038-04-23  # Good Friday
+2038-04-25  # Easter Sunday
+2038-06-03  # Ascension Day
+2038-06-26  # Midsummer Day
+2038-11-06  # All Saints' Day
+2039-01-01  # New Year's Day
+2039-01-06  # Epiphany
+2039-05-01  # Labor Day
+2039-06-06  # National Day of Sweden
+2039-12-24  # Christmas Eve
+2039-12-25  # Christmas Day
+2039-12-26  # Boxing Day
+2039-12-31  # New Year's Eve
+2039-04-08  # Good Friday
+2039-04-10  # Easter Sunday
+2039-05-19  # Ascension Day
+2039-06-25  # Midsummer Day
+2039-11-05  # All Saints' Day
+2040-01-01  # New Year's Day
+2040-01-06  # Epiphany
+2040-05-01  # Labor Day
+2040-06-06  # National Day of Sweden
+2040-12-24  # Christmas Eve
+2040-12-25  # Christmas Day
+2040-12-26  # Boxing Day
+2040-12-31  # New Year's Eve
+2040-03-30  # Good Friday
+2040-04-01  # Easter Sunday
+2040-05-10  # Ascension Day
+2040-06-23  # Midsummer Day
+2040-11-03  # All Saints' Day
+2041-01-01  # New Year's Day
+2041-01-06  # Epiphany
+2041-05-01  # Labor Day
+2041-06-06  # National Day of Sweden
+2041-12-24  # Christmas Eve
+2041-12-25  # Christmas Day
+2041-12-26  # Boxing Day
+2041-12-31  # New Year's Eve
+2041-04-19  # Good Friday
+2041-04-21  # Easter Sunday
+2041-05-30  # Ascension Day
+2041-06-22  # Midsummer Day
+2041-11-02  # All Saints' Day
+2042-01-01  # New Year's Day
+2042-01-06  # Epiphany
+2042-05-01  # Labor Day
+2042-06-06  # National Day of Sweden
+2042-12-24  # Christmas Eve
+2042-12-25  # Christmas Day
+2042-12-26  # Boxing Day
+2042-12-31  # New Year's Eve
+2042-04-04  # Good Friday
+2042-04-06  # Easter Sunday
+2042-05-15  # Ascension Day
+2042-06-21  # Midsummer Day
+2042-11-01  # All Saints' Day
+2043-01-01  # New Year's Day
+2043-01-06  # Epiphany
+2043-05-01  # Labor Day
+2043-06-06  # National Day of Sweden
+2043-12-24  # Christmas Eve
+2043-12-25  # Christmas Day
+2043-12-26  # Boxing Day
+2043-12-31  # New Year's Eve
+2043-03-27  # Good Friday
+2043-03-29  # Easter Sunday
+2043-05-07  # Ascension Day
+2043-06-20  # Midsummer Day
+2043-11-07  # All Saints' Day
+2044-01-01  # New Year's Day
+2044-01-06  # Epiphany
+2044-05-01  # Labor Day
+2044-06-06  # National Day of Sweden
+2044-12-24  # Christmas Eve
+2044-12-25  # Christmas Day
+2044-12-26  # Boxing Day
+2044-12-31  # New Year's Eve
+2044-04-15  # Good Friday
+2044-04-17  # Easter Sunday
+2044-05-26  # Ascension Day
+2044-06-25  # Midsummer Day
+2044-11-05  # All Saints' Day
+2045-01-01  # New Year's Day
+2045-01-06  # Epiphany
+2045-05-01  # Labor Day
+2045-06-06  # National Day of Sweden
+2045-12-24  # Christmas Eve
+2045-12-25  # Christmas Day
+2045-12-26  # Boxing Day
+2045-12-31  # New Year's Eve
+2045-04-07  # Good Friday
+2045-04-09  # Easter Sunday
+2045-05-18  # Ascension Day
+2045-06-24  # Midsummer Day
+2045-11-04  # All Saints' Day
+2046-01-01  # New Year's Day
+2046-01-06  # Epiphany
+2046-05-01  # Labor Day
+2046-06-06  # National Day of Sweden
+2046-12-24  # Christmas Eve
+2046-12-25  # Christmas Day
+2046-12-26  # Boxing Day
+2046-12-31  # New Year's Eve
+2046-03-23  # Good Friday
+2046-03-25  # Easter Sunday
+2046-05-03  # Ascension Day
+2046-06-23  # Midsummer Day
+2046-11-03  # All Saints' Day
+2047-01-01  # New Year's Day
+2047-01-06  # Epiphany
+2047-05-01  # Labor Day
+2047-06-06  # National Day of Sweden
+2047-12-24  # Christmas Eve
+2047-12-25  # Christmas Day
+2047-12-26  # Boxing Day
+2047-12-31  # New Year's Eve
+2047-04-12  # Good Friday
+2047-04-14  # Easter Sunday
+2047-05-23  # Ascension Day
+2047-06-22  # Midsummer Day
+2047-11-02  # All Saints' Day
+2048-01-01  # New Year's Day
+2048-01-06  # Epiphany
+2048-05-01  # Labor Day
+2048-06-06  # National Day of Sweden
+2048-12-24  # Christmas Eve
+2048-12-25  # Christmas Day
+2048-12-26  # Boxing Day
+2048-12-31  # New Year's Eve
+2048-04-03  # Good Friday
+2048-04-05  # Easter Sunday
+2048-05-14  # Ascension Day
+2048-06-20  # Midsummer Day
+2048-11-07  # All Saints' Day
+2049-01-01  # New Year's Day
+2049-01-06  # Epiphany
+2049-05-01  # Labor Day
+2049-06-06  # National Day of Sweden
+2049-12-24  # Christmas Eve
+2049-12-25  # Christmas Day
+2049-12-26  # Boxing Day
+2049-12-31  # New Year's Eve
+2049-04-16  # Good Friday
+2049-04-18  # Easter Sunday
+2049-05-27  # Ascension Day
+2049-06-26  # Midsummer Day
+2049-11-06  # All Saints' Day
+2050-01-01  # New Year's Day
+2050-01-06  # Epiphany
+2050-05-01  # Labor Day
+2050-06-06  # National Day of Sweden
+2050-12-24  # Christmas Eve
+2050-12-25  # Christmas Day
+2050-12-26  # Boxing Day
+2050-12-31  # New Year's Eve
+2050-04-08  # Good Friday
+2050-04-10  # Easter Sunday
+2050-05-19  # Ascension Day
+2050-06-25  # Midsummer Day
+2050-11-05  # All Saints' Day
+2051-01-01  # New Year's Day
+2051-01-06  # Epiphany
+2051-05-01  # Labor Day
+2051-06-06  # National Day of Sweden
+2051-12-24  # Christmas Eve
+2051-12-25  # Christmas Day
+2051-12-26  # Boxing Day
+2051-12-31  # New Year's Eve
+2051-03-31  # Good Friday
+2051-04-02  # Easter Sunday
+2051-05-11  # Ascension Day
+2051-06-24  # Midsummer Day
+2051-11-04  # All Saints' Day
+2052-01-01  # New Year's Day
+2052-01-06  # Epiphany
+2052-05-01  # Labor Day
+2052-06-06  # National Day of Sweden
+2052-12-24  # Christmas Eve
+2052-12-25  # Christmas Day
+2052-12-26  # Boxing Day
+2052-12-31  # New Year's Eve
+2052-04-19  # Good Friday
+2052-04-21  # Easter Sunday
+2052-05-30  # Ascension Day
+2052-06-22  # Midsummer Day
+2052-11-02  # All Saints' Day
+2053-01-01  # New Year's Day
+2053-01-06  # Epiphany
+2053-05-01  # Labor Day
+2053-06-06  # National Day of Sweden
+2053-12-24  # Christmas Eve
+2053-12-25  # Christmas Day
+2053-12-26  # Boxing Day
+2053-12-31  # New Year's Eve
+2053-04-04  # Good Friday
+2053-04-06  # Easter Sunday
+2053-05-15  # Ascension Day
+2053-06-21  # Midsummer Day
+2053-11-01  # All Saints' Day
+2054-01-01  # New Year's Day
+2054-01-06  # Epiphany
+2054-05-01  # Labor Day
+2054-06-06  # National Day of Sweden
+2054-12-24  # Christmas Eve
+2054-12-25  # Christmas Day
+2054-12-26  # Boxing Day
+2054-12-31  # New Year's Eve
+2054-03-27  # Good Friday
+2054-03-29  # Easter Sunday
+2054-05-07  # Ascension Day
+2054-06-20  # Midsummer Day
+2054-11-07  # All Saints' Day
+2055-01-01  # New Year's Day
+2055-01-06  # Epiphany
+2055-05-01  # Labor Day
+2055-06-06  # National Day of Sweden
+2055-12-24  # Christmas Eve
+2055-12-25  # Christmas Day
+2055-12-26  # Boxing Day
+2055-12-31  # New Year's Eve
+2055-04-16  # Good Friday
+2055-04-18  # Easter Sunday
+2055-05-27  # Ascension Day
+2055-06-26  # Midsummer Day
+2055-11-06  # All Saints' Day
+2056-01-01  # New Year's Day
+2056-01-06  # Epiphany
+2056-05-01  # Labor Day
+2056-06-06  # National Day of Sweden
+2056-12-24  # Christmas Eve
+2056-12-25  # Christmas Day
+2056-12-26  # Boxing Day
+2056-12-31  # New Year's Eve
+2056-03-31  # Good Friday
+2056-04-02  # Easter Sunday
+2056-05-11  # Ascension Day
+2056-06-24  # Midsummer Day
+2056-11-04  # All Saints' Day
+2057-01-01  # New Year's Day
+2057-01-06  # Epiphany
+2057-05-01  # Labor Day
+2057-06-06  # National Day of Sweden
+2057-12-24  # Christmas Eve
+2057-12-25  # Christmas Day
+2057-12-26  # Boxing Day
+2057-12-31  # New Year's Eve
+2057-04-20  # Good Friday
+2057-04-22  # Easter Sunday
+2057-05-31  # Ascension Day
+2057-06-23  # Midsummer Day
+2057-11-03  # All Saints' Day
+2058-01-01  # New Year's Day
+2058-01-06  # Epiphany
+2058-05-01  # Labor Day
+2058-06-06  # National Day of Sweden
+2058-12-24  # Christmas Eve
+2058-12-25  # Christmas Day
+2058-12-26  # Boxing Day
+2058-12-31  # New Year's Eve
+2058-04-12  # Good Friday
+2058-04-14  # Easter Sunday
+2058-05-23  # Ascension Day
+2058-06-22  # Midsummer Day
+2058-11-02  # All Saints' Day
+2059-01-01  # New Year's Day
+2059-01-06  # Epiphany
+2059-05-01  # Labor Day
+2059-06-06  # National Day of Sweden
+2059-12-24  # Christmas Eve
+2059-12-25  # Christmas Day
+2059-12-26  # Boxing Day
+2059-12-31  # New Year's Eve
+2059-03-28  # Good Friday
+2059-03-30  # Easter Sunday
+2059-05-08  # Ascension Day
+2059-06-21  # Midsummer Day
+2059-11-01  # All Saints' Day
+2060-01-01  # New Year's Day
+2060-01-06  # Epiphany
+2060-05-01  # Labor Day
+2060-06-06  # National Day of Sweden
+2060-12-24  # Christmas Eve
+2060-12-25  # Christmas Day
+2060-12-26  # Boxing Day
+2060-12-31  # New Year's Eve
+2060-04-16  # Good Friday
+2060-04-18  # Easter Sunday
+2060-05-27  # Ascension Day
+2060-06-26  # Midsummer Day
+2060-11-06  # All Saints' Day
+2061-01-01  # New Year's Day
+2061-01-06  # Epiphany
+2061-05-01  # Labor Day
+2061-06-06  # National Day of Sweden
+2061-12-24  # Christmas Eve
+2061-12-25  # Christmas Day
+2061-12-26  # Boxing Day
+2061-12-31  # New Year's Eve
+2061-04-08  # Good Friday
+2061-04-10  # Easter Sunday
+2061-05-19  # Ascension Day
+2061-06-25  # Midsummer Day
+2061-11-05  # All Saints' Day
+2062-01-01  # New Year's Day
+2062-01-06  # Epiphany
+2062-05-01  # Labor Day
+2062-06-06  # National Day of Sweden
+2062-12-24  # Christmas Eve
+2062-12-25  # Christmas Day
+2062-12-26  # Boxing Day
+2062-12-31  # New Year's Eve
+2062-03-24  # Good Friday
+2062-03-26  # Easter Sunday
+2062-05-04  # Ascension Day
+2062-06-24  # Midsummer Day
+2062-11-04  # All Saints' Day
+2063-01-01  # New Year's Day
+2063-01-06  # Epiphany
+2063-05-01  # Labor Day
+2063-06-06  # National Day of Sweden
+2063-12-24  # Christmas Eve
+2063-12-25  # Christmas Day
+2063-12-26  # Boxing Day
+2063-12-31  # New Year's Eve
+2063-04-13  # Good Friday
+2063-04-15  # Easter Sunday
+2063-05-24  # Ascension Day
+2063-06-23  # Midsummer Day
+2063-11-03  # All Saints' Day
+2064-01-01  # New Year's Day
+2064-01-06  # Epiphany
+2064-05-01  # Labor Day
+2064-06-06  # National Day of Sweden
+2064-12-24  # Christmas Eve
+2064-12-25  # Christmas Day
+2064-12-26  # Boxing Day
+2064-12-31  # New Year's Eve
+2064-04-04  # Good Friday
+2064-04-06  # Easter Sunday
+2064-05-15  # Ascension Day
+2064-06-21  # Midsummer Day
+2064-11-01  # All Saints' Day
+2065-01-01  # New Year's Day
+2065-01-06  # Epiphany
+2065-05-01  # Labor Day
+2065-06-06  # National Day of Sweden
+2065-12-24  # Christmas Eve
+2065-12-25  # Christmas Day
+2065-12-26  # Boxing Day
+2065-12-31  # New Year's Eve
+2065-03-27  # Good Friday
+2065-03-29  # Easter Sunday
+2065-05-07  # Ascension Day
+2065-06-20  # Midsummer Day
+2065-11-07  # All Saints' Day
+2066-01-01  # New Year's Day
+2066-01-06  # Epiphany
+2066-05-01  # Labor Day
+2066-06-06  # National Day of Sweden
+2066-12-24  # Christmas Eve
+2066-12-25  # Christmas Day
+2066-12-26  # Boxing Day
+2066-12-31  # New Year's Eve
+2066-04-09  # Good Friday
+2066-04-11  # Easter Sunday
+2066-05-20  # Ascension Day
+2066-06-26  # Midsummer Day
+2066-11-06  # All Saints' Day
+2067-01-01  # New Year's Day
+2067-01-06  # Epiphany
+2067-05-01  # Labor Day
+2067-06-06  # National Day of Sweden
+2067-12-24  # Christmas Eve
+2067-12-25  # Christmas Day
+2067-12-26  # Boxing Day
+2067-12-31  # New Year's Eve
+2067-04-01  # Good Friday
+2067-04-03  # Easter Sunday
+2067-05-12  # Ascension Day
+2067-06-25  # Midsummer Day
+2067-11-05  # All Saints' Day
+2068-01-01  # New Year's Day
+2068-01-06  # Epiphany
+2068-05-01  # Labor Day
+2068-06-06  # National Day of Sweden
+2068-12-24  # Christmas Eve
+2068-12-25  # Christmas Day
+2068-12-26  # Boxing Day
+2068-12-31  # New Year's Eve
+2068-04-20  # Good Friday
+2068-04-22  # Easter Sunday
+2068-05-31  # Ascension Day
+2068-06-23  # Midsummer Day
+2068-11-03  # All Saints' Day
+2069-01-01  # New Year's Day
+2069-01-06  # Epiphany
+2069-05-01  # Labor Day
+2069-06-06  # National Day of Sweden
+2069-12-24  # Christmas Eve
+2069-12-25  # Christmas Day
+2069-12-26  # Boxing Day
+2069-12-31  # New Year's Eve
+2069-04-12  # Good Friday
+2069-04-14  # Easter Sunday
+2069-05-23  # Ascension Day
+2069-06-22  # Midsummer Day
+2069-11-02  # All Saints' Day
+2070-01-01  # New Year's Day
+2070-01-06  # Epiphany
+2070-05-01  # Labor Day
+2070-06-06  # National Day of Sweden
+2070-12-24  # Christmas Eve
+2070-12-25  # Christmas Day
+2070-12-26  # Boxing Day
+2070-12-31  # New Year's Eve
+2070-03-28  # Good Friday
+2070-03-30  # Easter Sunday
+2070-05-08  # Ascension Day
+2070-06-21  # Midsummer Day
+2070-11-01  # All Saints' Day
+2071-01-01  # New Year's Day
+2071-01-06  # Epiphany
+2071-05-01  # Labor Day
+2071-06-06  # National Day of Sweden
+2071-12-24  # Christmas Eve
+2071-12-25  # Christmas Day
+2071-12-26  # Boxing Day
+2071-12-31  # New Year's Eve
+2071-04-17  # Good Friday
+2071-04-19  # Easter Sunday
+2071-05-28  # Ascension Day
+2071-06-20  # Midsummer Day
+2071-11-07  # All Saints' Day
+2072-01-01  # New Year's Day
+2072-01-06  # Epiphany
+2072-05-01  # Labor Day
+2072-06-06  # National Day of Sweden
+2072-12-24  # Christmas Eve
+2072-12-25  # Christmas Day
+2072-12-26  # Boxing Day
+2072-12-31  # New Year's Eve
+2072-04-08  # Good Friday
+2072-04-10  # Easter Sunday
+2072-05-19  # Ascension Day
+2072-06-25  # Midsummer Day
+2072-11-05  # All Saints' Day
+2073-01-01  # New Year's Day
+2073-01-06  # Epiphany
+2073-05-01  # Labor Day
+2073-06-06  # National Day of Sweden
+2073-12-24  # Christmas Eve
+2073-12-25  # Christmas Day
+2073-12-26  # Boxing Day
+2073-12-31  # New Year's Eve
+2073-03-24  # Good Friday
+2073-03-26  # Easter Sunday
+2073-05-04  # Ascension Day
+2073-06-24  # Midsummer Day
+2073-11-04  # All Saints' Day
+2074-01-01  # New Year's Day
+2074-01-06  # Epiphany
+2074-05-01  # Labor Day
+2074-06-06  # National Day of Sweden
+2074-12-24  # Christmas Eve
+2074-12-25  # Christmas Day
+2074-12-26  # Boxing Day
+2074-12-31  # New Year's Eve
+2074-04-13  # Good Friday
+2074-04-15  # Easter Sunday
+2074-05-24  # Ascension Day
+2074-06-23  # Midsummer Day
+2074-11-03  # All Saints' Day
+2075-01-01  # New Year's Day
+2075-01-06  # Epiphany
+2075-05-01  # Labor Day
+2075-06-06  # National Day of Sweden
+2075-12-24  # Christmas Eve
+2075-12-25  # Christmas Day
+2075-12-26  # Boxing Day
+2075-12-31  # New Year's Eve
+2075-04-05  # Good Friday
+2075-04-07  # Easter Sunday
+2075-05-16  # Ascension Day
+2075-06-22  # Midsummer Day
+2075-11-02  # All Saints' Day
+2076-01-01  # New Year's Day
+2076-01-06  # Epiphany
+2076-05-01  # Labor Day
+2076-06-06  # National Day of Sweden
+2076-12-24  # Christmas Eve
+2076-12-25  # Christmas Day
+2076-12-26  # Boxing Day
+2076-12-31  # New Year's Eve
+2076-04-17  # Good Friday
+2076-04-19  # Easter Sunday
+2076-05-28  # Ascension Day
+2076-06-20  # Midsummer Day
+2076-11-07  # All Saints' Day
+2077-01-01  # New Year's Day
+2077-01-06  # Epiphany
+2077-05-01  # Labor Day
+2077-06-06  # National Day of Sweden
+2077-12-24  # Christmas Eve
+2077-12-25  # Christmas Day
+2077-12-26  # Boxing Day
+2077-12-31  # New Year's Eve
+2077-04-09  # Good Friday
+2077-04-11  # Easter Sunday
+2077-05-20  # Ascension Day
+2077-06-26  # Midsummer Day
+2077-11-06  # All Saints' Day
+2078-01-01  # New Year's Day
+2078-01-06  # Epiphany
+2078-05-01  # Labor Day
+2078-06-06  # National Day of Sweden
+2078-12-24  # Christmas Eve
+2078-12-25  # Christmas Day
+2078-12-26  # Boxing Day
+2078-12-31  # New Year's Eve
+2078-04-01  # Good Friday
+2078-04-03  # Easter Sunday
+2078-05-12  # Ascension Day
+2078-06-25  # Midsummer Day
+2078-11-05  # All Saints' Day
+2079-01-01  # New Year's Day
+2079-01-06  # Epiphany
+2079-05-01  # Labor Day
+2079-06-06  # National Day of Sweden
+2079-12-24  # Christmas Eve
+2079-12-25  # Christmas Day
+2079-12-26  # Boxing Day
+2079-12-31  # New Year's Eve
+2079-04-21  # Good Friday
+2079-04-23  # Easter Sunday
+2079-06-01  # Ascension Day
+2079-06-24  # Midsummer Day
+2079-11-04  # All Saints' Day
+2080-01-01  # New Year's Day
+2080-01-06  # Epiphany
+2080-05-01  # Labor Day
+2080-06-06  # National Day of Sweden
+2080-12-24  # Christmas Eve
+2080-12-25  # Christmas Day
+2080-12-26  # Boxing Day
+2080-12-31  # New Year's Eve
+2080-04-05  # Good Friday
+2080-04-07  # Easter Sunday
+2080-05-16  # Ascension Day
+2080-06-22  # Midsummer Day
+2080-11-02  # All Saints' Day
+2081-01-01  # New Year's Day
+2081-01-06  # Epiphany
+2081-05-01  # Labor Day
+2081-06-06  # National Day of Sweden
+2081-12-24  # Christmas Eve
+2081-12-25  # Christmas Day
+2081-12-26  # Boxing Day
+2081-12-31  # New Year's Eve
+2081-03-28  # Good Friday
+2081-03-30  # Easter Sunday
+2081-05-08  # Ascension Day
+2081-06-21  # Midsummer Day
+2081-11-01  # All Saints' Day
+2082-01-01  # New Year's Day
+2082-01-06  # Epiphany
+2082-05-01  # Labor Day
+2082-06-06  # National Day of Sweden
+2082-12-24  # Christmas Eve
+2082-12-25  # Christmas Day
+2082-12-26  # Boxing Day
+2082-12-31  # New Year's Eve
+2082-04-17  # Good Friday
+2082-04-19  # Easter Sunday
+2082-05-28  # Ascension Day
+2082-06-20  # Midsummer Day
+2082-11-07  # All Saints' Day
+2083-01-01  # New Year's Day
+2083-01-06  # Epiphany
+2083-05-01  # Labor Day
+2083-06-06  # National Day of Sweden
+2083-12-24  # Christmas Eve
+2083-12-25  # Christmas Day
+2083-12-26  # Boxing Day
+2083-12-31  # New Year's Eve
+2083-04-02  # Good Friday
+2083-04-04  # Easter Sunday
+2083-05-13  # Ascension Day
+2083-06-26  # Midsummer Day
+2083-11-06  # All Saints' Day
+2084-01-01  # New Year's Day
+2084-01-06  # Epiphany
+2084-05-01  # Labor Day
+2084-06-06  # National Day of Sweden
+2084-12-24  # Christmas Eve
+2084-12-25  # Christmas Day
+2084-12-26  # Boxing Day
+2084-12-31  # New Year's Eve
+2084-03-24  # Good Friday
+2084-03-26  # Easter Sunday
+2084-05-04  # Ascension Day
+2084-06-24  # Midsummer Day
+2084-11-04  # All Saints' Day
+2085-01-01  # New Year's Day
+2085-01-06  # Epiphany
+2085-05-01  # Labor Day
+2085-06-06  # National Day of Sweden
+2085-12-24  # Christmas Eve
+2085-12-25  # Christmas Day
+2085-12-26  # Boxing Day
+2085-12-31  # New Year's Eve
+2085-04-13  # Good Friday
+2085-04-15  # Easter Sunday
+2085-05-24  # Ascension Day
+2085-06-23  # Midsummer Day
+2085-11-03  # All Saints' Day
+2086-01-01  # New Year's Day
+2086-01-06  # Epiphany
+2086-05-01  # Labor Day
+2086-06-06  # National Day of Sweden
+2086-12-24  # Christmas Eve
+2086-12-25  # Christmas Day
+2086-12-26  # Boxing Day
+2086-12-31  # New Year's Eve
+2086-03-29  # Good Friday
+2086-03-31  # Easter Sunday
+2086-05-09  # Ascension Day
+2086-06-22  # Midsummer Day
+2086-11-02  # All Saints' Day
+2087-01-01  # New Year's Day
+2087-01-06  # Epiphany
+2087-05-01  # Labor Day
+2087-06-06  # National Day of Sweden
+2087-12-24  # Christmas Eve
+2087-12-25  # Christmas Day
+2087-12-26  # Boxing Day
+2087-12-31  # New Year's Eve
+2087-04-18  # Good Friday
+2087-04-20  # Easter Sunday
+2087-05-29  # Ascension Day
+2087-06-21  # Midsummer Day
+2087-11-01  # All Saints' Day
+2088-01-01  # New Year's Day
+2088-01-06  # Epiphany
+2088-05-01  # Labor Day
+2088-06-06  # National Day of Sweden
+2088-12-24  # Christmas Eve
+2088-12-25  # Christmas Day
+2088-12-26  # Boxing Day
+2088-12-31  # New Year's Eve
+2088-04-09  # Good Friday
+2088-04-11  # Easter Sunday
+2088-05-20  # Ascension Day
+2088-06-26  # Midsummer Day
+2088-11-06  # All Saints' Day
+2089-01-01  # New Year's Day
+2089-01-06  # Epiphany
+2089-05-01  # Labor Day
+2089-06-06  # National Day of Sweden
+2089-12-24  # Christmas Eve
+2089-12-25  # Christmas Day
+2089-12-26  # Boxing Day
+2089-12-31  # New Year's Eve
+2089-04-01  # Good Friday
+2089-04-03  # Easter Sunday
+2089-05-12  # Ascension Day
+2089-06-25  # Midsummer Day
+2089-11-05  # All Saints' Day
+2090-01-01  # New Year's Day
+2090-01-06  # Epiphany
+2090-05-01  # Labor Day
+2090-06-06  # National Day of Sweden
+2090-12-24  # Christmas Eve
+2090-12-25  # Christmas Day
+2090-12-26  # Boxing Day
+2090-12-31  # New Year's Eve
+2090-04-14  # Good Friday
+2090-04-16  # Easter Sunday
+2090-05-25  # Ascension Day
+2090-06-24  # Midsummer Day
+2090-11-04  # All Saints' Day
+2091-01-01  # New Year's Day
+2091-01-06  # Epiphany
+2091-05-01  # Labor Day
+2091-06-06  # National Day of Sweden
+2091-12-24  # Christmas Eve
+2091-12-25  # Christmas Day
+2091-12-26  # Boxing Day
+2091-12-31  # New Year's Eve
+2091-04-06  # Good Friday
+2091-04-08  # Easter Sunday
+2091-05-17  # Ascension Day
+2091-06-23  # Midsummer Day
+2091-11-03  # All Saints' Day
+2092-01-01  # New Year's Day
+2092-01-06  # Epiphany
+2092-05-01  # Labor Day
+2092-06-06  # National Day of Sweden
+2092-12-24  # Christmas Eve
+2092-12-25  # Christmas Day
+2092-12-26  # Boxing Day
+2092-12-31  # New Year's Eve
+2092-03-28  # Good Friday
+2092-03-30  # Easter Sunday
+2092-05-08  # Ascension Day
+2092-06-21  # Midsummer Day
+2092-11-01  # All Saints' Day
+2093-01-01  # New Year's Day
+2093-01-06  # Epiphany
+2093-05-01  # Labor Day
+2093-06-06  # National Day of Sweden
+2093-12-24  # Christmas Eve
+2093-12-25  # Christmas Day
+2093-12-26  # Boxing Day
+2093-12-31  # New Year's Eve
+2093-04-10  # Good Friday
+2093-04-12  # Easter Sunday
+2093-05-21  # Ascension Day
+2093-06-20  # Midsummer Day
+2093-11-07  # All Saints' Day
+2094-01-01  # New Year's Day
+2094-01-06  # Epiphany
+2094-05-01  # Labor Day
+2094-06-06  # National Day of Sweden
+2094-12-24  # Christmas Eve
+2094-12-25  # Christmas Day
+2094-12-26  # Boxing Day
+2094-12-31  # New Year's Eve
+2094-04-02  # Good Friday
+2094-04-04  # Easter Sunday
+2094-05-13  # Ascension Day
+2094-06-26  # Midsummer Day
+2094-11-06  # All Saints' Day
+2095-01-01  # New Year's Day
+2095-01-06  # Epiphany
+2095-05-01  # Labor Day
+2095-06-06  # National Day of Sweden
+2095-12-24  # Christmas Eve
+2095-12-25  # Christmas Day
+2095-12-26  # Boxing Day
+2095-12-31  # New Year's Eve
+2095-04-22  # Good Friday
+2095-04-24  # Easter Sunday
+2095-06-02  # Ascension Day
+2095-06-25  # Midsummer Day
+2095-11-05  # All Saints' Day
+2096-01-01  # New Year's Day
+2096-01-06  # Epiphany
+2096-05-01  # Labor Day
+2096-06-06  # National Day of Sweden
+2096-12-24  # Christmas Eve
+2096-12-25  # Christmas Day
+2096-12-26  # Boxing Day
+2096-12-31  # New Year's Eve
+2096-04-13  # Good Friday
+2096-04-15  # Easter Sunday
+2096-05-24  # Ascension Day
+2096-06-23  # Midsummer Day
+2096-11-03  # All Saints' Day
+2097-01-01  # New Year's Day
+2097-01-06  # Epiphany
+2097-05-01  # Labor Day
+2097-06-06  # National Day of Sweden
+2097-12-24  # Christmas Eve
+2097-12-25  # Christmas Day
+2097-12-26  # Boxing Day
+2097-12-31  # New Year's Eve
+2097-03-29  # Good Friday
+2097-03-31  # Easter Sunday
+2097-05-09  # Ascension Day
+2097-06-22  # Midsummer Day
+2097-11-02  # All Saints' Day
+2098-01-01  # New Year's Day
+2098-01-06  # Epiphany
+2098-05-01  # Labor Day
+2098-06-06  # National Day of Sweden
+2098-12-24  # Christmas Eve
+2098-12-25  # Christmas Day
+2098-12-26  # Boxing Day
+2098-12-31  # New Year's Eve
+2098-04-18  # Good Friday
+2098-04-20  # Easter Sunday
+2098-05-29  # Ascension Day
+2098-06-21  # Midsummer Day
+2098-11-01  # All Saints' Day
+2099-01-01  # New Year's Day
+2099-01-06  # Epiphany
+2099-05-01  # Labor Day
+2099-06-06  # National Day of Sweden
+2099-12-24  # Christmas Eve
+2099-12-25  # Christmas Day
+2099-12-26  # Boxing Day
+2099-12-31  # New Year's Eve
+2099-04-10  # Good Friday
+2099-04-12  # Easter Sunday
+2099-05-21  # Ascension Day
+2099-06-20  # Midsummer Day
+2099-11-07  # All Saints' Day
+2100-01-01  # New Year's Day
+2100-01-06  # Epiphany
+2100-05-01  # Labor Day
+2100-06-06  # National Day of Sweden
+2100-12-24  # Christmas Eve
+2100-12-25  # Christmas Day
+2100-12-26  # Boxing Day
+2100-12-31  # New Year's Eve
+2100-03-26  # Good Friday
+2100-03-28  # Easter Sunday
+2100-05-06  # Ascension Day
+2100-06-26  # Midsummer Day
+2100-11-06  # All Saints' Day
